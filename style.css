@@ -2,6 +2,8 @@ body {
     background-color: #eee;
 }
 
+.card {}
+
 .title {
     font-size: 52px;
     background-color: lightskyblue;
