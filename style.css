@@ -13,10 +13,12 @@ body {
     font-size: 52px;
     background-color: lightskyblue;
     padding: 16px;
+    margin: 16px auto;
 }
 
 .content {
     font-size: 20px;
     background-color: lightskyblue;
-    padding: 16px;
+    padding: 24px;
+    margin: 16px auto;
 }
